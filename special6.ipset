@@ -1,0 +1,22 @@
+create special6 hash:net family inet6 hashsize 1024 maxelem 65536
+add special6 ::1
+add special6 2001::/23
+add special6 ::
+add special6 2001:db8::/32
+add special6 64:ff9b:1::/48
+add special6 2002::/16
+add special6 2001::/32
+add special6 2001:4:112::/48
+add special6 64:ff9b::/96
+add special6 2001:5::/32
+add special6 2620:4f:8000::/48
+add special6 fc00::/7
+add special6 2001:10::/28
+add special6 2001:1::1
+add special6 ::ffff:0.0.0.0/96
+add special6 2001:3::/32
+add special6 2001:1::2
+add special6 fe80::/10
+add special6 100::/64
+add special6 2001:2::/48
+add special6 2001:20::/28

@@ -1,0 +1,7 @@
+create iana6 hash:net family inet6 hashsize 1024 maxelem 65536
+add iana6 5f00::/8
+add iana6 3000::/4
+add iana6 2e00::/7
+add iana6 3ffe::/16
+add iana6 2d00::/8
+add iana6 2001::/23

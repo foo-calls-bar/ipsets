@@ -1,0 +1,8 @@
+create arin6 hash:net family inet6 hashsize 1024 maxelem 65536
+add arin6 2610::/23
+add arin6 2600::/12
+add arin6 2001:4800::/23
+add arin6 2001:400::/23
+add arin6 2001:1800::/23
+add arin6 2620::/23
+
